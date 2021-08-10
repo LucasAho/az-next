@@ -15,5 +15,17 @@
   },
   "devDependencies": {
     "serve": "^11.3.2"
-  }
+  },
+  "description": "[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Next.js](https://nextjs.org/) apps in minutes. Use this repo with the [Next.js tutorial](https://docs.microsoft.com/azure/static-web-apps/deploy-nextjs) to build and customize a new static site.",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasAho/az-next.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasAho/az-next/issues"
+  },
+  "homepage": "https://github.com/LucasAho/az-next#readme"
 }
